@@ -1,12 +1,9 @@
 ---
-build/images/timezones/gap-0ba6aa6c.png: 2015-12-06 16:30:58.000000000 -08:00
-build/images/timezones/gap_arithmetic-8e2b4ee9.png: 2015-12-06 16:30:57.000000000
-  -08:00
-build/images/timezones/gap_arithmetic_fixed-ae7c9c6f.png: 2015-12-06 16:30:59.000000000
-  -08:00
-build/images/timezones/meansolartime-62451b2b.png: 2015-12-06 16:29:29.000000000 -08:00
-build/images/timezones/overlap-e09e171b.png: 2015-12-06 16:33:06.000000000 -08:00
-build/images/timezones/overlap_arithmetic-cd7efcdd.png: 2015-12-06 16:33:59.000000000
-  -08:00
-build/images/timezones/overlap_arithmetic_fixed-baea9ab0.png: 2015-12-06 16:34:45.000000000
+build/images/timezones/gap.png: 2015-12-06 17:09:03.000000000 -08:00
+build/images/timezones/gap_arithmetic.png: 2015-12-06 17:09:02.000000000 -08:00
+build/images/timezones/gap_arithmetic_fixed.png: 2015-12-06 17:09:03.000000000 -08:00
+build/images/timezones/meansolartime.png: 2015-12-06 17:07:39.000000000 -08:00
+build/images/timezones/overlap.png: 2015-12-06 17:11:05.000000000 -08:00
+build/images/timezones/overlap_arithmetic.png: 2015-12-06 17:11:56.000000000 -08:00
+build/images/timezones/overlap_arithmetic_fixed.png: 2015-12-06 17:12:40.000000000
   -08:00
